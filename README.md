@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Hana Shaker 👋</h1>
 
 🎓 I'm a 3rd year Computer Science student  
-💻 Currently learning: **Spring Boot** & **Angular**  
-🚀 Passionate about building full-stack web applications  
+💻 Currently learning: **Spring Boot**  
+🚀 Passionate about Backend development 
 
 ---
 
 ## 🚀 Tech Stack:
-- 🌐 Frontend: HTML, CSS, JavaScript, Angular  
+- 🌐 Frontend: HTML, CSS, JavaScript, Typescript  
 - 🛠️ Backend: Java, Spring Boot  
 - 🗃️ Databases: MySQL, Hibernate  
 
