@@ -24,12 +24,13 @@
 ---
 
 ## 📫 Contact Me:
-- LinkedIn: [https://www.linkedin.com/in/hana-shaker-153a9629a/](#)
-- Email: [hanashaker2004@gmail.com](#)
-- Codeforces: [https://codeforces.com/profile/angel_hanazz](#)
-- Leetcode: [https://leetcode.com/u/hana_shaker12/](#)
-- Hackerrank: [https://www.hackerrank.com/profile/hanashaker2004](#) 
-- GitHub: [github.com/hanaz12](#)
+- LinkedIn: [hana-shaker](https://www.linkedin.com/in/hana-shaker-153a9629a/)
+- Email: [hanashaker2004@gmail.com](mailto:hanashaker2004@gmail.com)
+- Codeforces: [angel_hanazz](https://codeforces.com/profile/angel_hanazz)
+- LeetCode: [hana_shaker12](https://leetcode.com/u/hana_shaker12/)
+- HackerRank: [hanashaker2004](https://www.hackerrank.com/profile/hanashaker2004)
+- GitHub: [hanaz12](https://github.com/hanaz12)
+
 
 ---
 
