@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack:
 - 🌐 Frontend: HTML, CSS, JavaScript, Angular  
 - 🛠️ Backend: Java, Spring Boot  
-- 🗃️ Databases: MySQL, Firebase  
+- 🗃️ Databases: MySQL, Hibernate  
 
 ---
 
