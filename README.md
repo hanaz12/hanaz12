@@ -17,18 +17,20 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hana-shaker&style=flat-square" alt="Profile Views" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hana-shaker&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana-shaker&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanaz12&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanaz12&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Contact Me:
-- LinkedIn: [linkedin.com/in/____](#)
-- Email: [your-email@example.com](#)
-- GitHub: [github.com/hana-shaker](#)
+- LinkedIn: [https://www.linkedin.com/in/hana-shaker-153a9629a/](#)
+- Email: [hanashaker2004@gmail.com](#)
+- Codeforces: [https://codeforces.com/profile/angel_hanazz](#)
+- Leetcode: [https://leetcode.com/u/hana_shaker12/](#)
+- Hackerrank: [https://www.hackerrank.com/profile/hanashaker2004](#) 
+- GitHub: [github.com/hanaz12](#)
 
 ---
 
-<!-- Feel free to add more sections like Projects, Certificates, etc. -->
 
