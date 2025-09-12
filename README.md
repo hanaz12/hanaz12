@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hana Shaker 👋</h1>
 
-🎓 I'm a 3rd year Computer Science student  
+🎓 I'm a 4th year Computer Science student  
 💻 Currently learning: **Spring Boot**  
 🚀 Passionate about Backend development 
 
@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack:
 - 🌐 Frontend: HTML, CSS, JavaScript, Typescript  
 - 🛠️ Backend: Java, Spring Boot  
-- 🗃️ Databases: MySQL, Hibernate  
+- 🗃️ Databases: MySQL, Hibernate , Postgresql , MongoDB 
 
 ---
 
@@ -29,7 +29,7 @@
 - Codeforces: [angel_hanazz](https://codeforces.com/profile/angel_hanazz)
 - LeetCode: [hana_shaker12](https://leetcode.com/u/hana_shaker12/)
 - HackerRank: [hanashaker2004](https://www.hackerrank.com/profile/hanashaker2004)
-- GitHub: [hanaz12](https://github.com/hanaz12)
+
 
 
 ---
