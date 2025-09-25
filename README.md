@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Hana Shaker 👋</h1>
 
-🎓 I'm a 4th year Computer Science student  
-💻 Currently learning: **Spring Boot**  
-🚀 Passionate about Backend development 
+🎓 I am a fourth-year Computer Science student with a strong interest in backend development, particularly using Java and Spring Boot. I enjoy tackling complex problems and have a solid understanding of programming fundamentals, which I apply to build efficient and scalable solutions.
 
 ---
 
